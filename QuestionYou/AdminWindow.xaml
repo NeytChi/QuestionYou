@@ -1,0 +1,26 @@
+﻿<Window x:Class="QuestionYou.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuestionYou"
+        mc:Ignorable="d"
+        Title="Редактирование вопросов" Height="470" Width="820">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="237*"/>
+            <ColumnDefinition Width="563*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="Questions" HorizontalAlignment="Left" Height="434" VerticalAlignment="Center" Width="557" Grid.ColumnSpan="2" FontSize="22">
+            <DataGrid.Columns>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="Create" Content="Добавить" HorizontalAlignment="Left" Margin="320,186,0,0" VerticalAlignment="Top" Width="243" Height="36" FontSize="20" Grid.Column="1" Click="Create_Click"/>
+        <Button x:Name="Delete" Content="Удалить" HorizontalAlignment="Left" Margin="320,227,0,0" VerticalAlignment="Top" Width="243" Height="36" FontSize="18" Grid.Column="1" Click="Delete_Click"/>
+        <Button x:Name="Ok" Content="Ок" HorizontalAlignment="Left" Margin="320,398,0,0" VerticalAlignment="Top" Width="243" Height="36" FontSize="20" Grid.Column="1" Click="Ok_Click"/>
+        <TextBox x:Name="QuestionTextBox" HorizontalAlignment="Left" Height="135" Margin="320,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="243" FontSize="20" Grid.Column="1"/>
+        <Label Content="Ваш вопрос..." Grid.Column="1" HorizontalAlignment="Left" Height="36" Margin="320,10,0,0" VerticalAlignment="Top" Width="243" FontSize="20"/>
+
+    </Grid>
+</Window>
