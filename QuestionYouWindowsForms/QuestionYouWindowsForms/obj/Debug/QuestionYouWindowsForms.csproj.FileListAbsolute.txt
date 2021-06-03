@@ -1,0 +1,15 @@
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\bin\Debug\QuestionYouWindowsForms.exe.config
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\bin\Debug\QuestionYouWindowsForms.exe
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\bin\Debug\QuestionYouWindowsForms.pdb
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\obj\Debug\QuestionYouWindowsForms.csproj.AssemblyReference.cache
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\obj\Debug\QuestionYouWindowsForms.AdminForm.resources
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\obj\Debug\QuestionYouWindowsForms.LoginForm.resources
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\obj\Debug\QuestionYouWindowsForms.Properties.Resources.resources
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\obj\Debug\QuestionYouWindowsForms.UserForm.resources
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\obj\Debug\QuestionYouWindowsForms.csproj.GenerateResource.cache
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\obj\Debug\QuestionYouWindowsForms.csproj.CoreCompileInputs.cache
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\obj\Debug\QuestionYouWindowsForms.csproj.CopyComplete
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\obj\Debug\QuestionYouWindowsForms.exe
+D:\Projects\QuestionYouWindowsForms\QuestionYouWindowsForms\obj\Debug\QuestionYouWindowsForms.pdb
